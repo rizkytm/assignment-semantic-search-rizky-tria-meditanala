@@ -38,6 +38,7 @@ assignment-semantic-search/
 ├── notebook/
 │   └── starter_notebook_semantic_search.ipynb
 ├── documentation/
+│   └── retrieval_test_results.md
 ├── README.md
 └── requirements.txt
 ```
